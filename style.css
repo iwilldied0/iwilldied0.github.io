@@ -201,5 +201,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: lightyellow;
     padding: 10px;
+    width: 0px;
 
 }
